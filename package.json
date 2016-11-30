@@ -1,0 +1,23 @@
+{
+  "name": "gathas",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generates an html page which contains gathas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landau/gathas.git"
+  },
+  "author": "Trevor Landau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landau/gathas/issues"
+  },
+  "homepage": "https://github.com/landau/gathas#readme",
+  "dependencies": {
+    "showdown": "1.5.0"
+  }
+}
