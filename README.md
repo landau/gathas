@@ -7,4 +7,4 @@ See the generated html here: http://trevorlandau.net/public/gathas.html
 
 1. Install Node and NPM
 2. `npm install`
-3. cat gathas.md | ./generate.js > index.html
+3. `cat gathas.md | ./generate.js > index.html`
